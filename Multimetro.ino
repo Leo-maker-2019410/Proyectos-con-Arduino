@@ -1,3 +1,15 @@
+/*
+  Fundación Kinal
+  Centro Educativo Técnico Laboral Kinal
+  Electrónica
+  Grado: Quinto
+  Sección: A
+  Curso: Taller de Electrónica Digital y Reparación de Computadoras I
+  Nombres: Edgar Leonel Ramírez Estrada
+  Carnés: 2019410
+  Proyecto: Multímetro
+*/
+
 //Directivas del preprocesador//
 #define sensorV A0
 #define muestreo A1
